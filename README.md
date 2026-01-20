@@ -9,4 +9,3 @@
 - Database : MySQL 🐬 | PostgreSQL 🐘 | MongoDB 🍃
 - DevOps : Docker 🐳 | GitHub Actions ⚙️
 
-📫 Contact : nihed@email.com
